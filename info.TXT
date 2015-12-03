@@ -1,0 +1,216 @@
+City No.: 0
+City: START
+Price: Rs. 2500
+Rent Site: Rs. 0
+Cost of House: Rs. 0
+Rent with House: Rs. 0
+Bank Mortgage Value: Rs. 0
+Selling Value: Rs. 0
+
+City No.: 1
+City: NAGPUR
+Price: Rs. 2500
+Rent Site: Rs. 200
+Cost of House: Rs. 3000
+Rent with House: Rs. 1000
+Bank Mortgage Value: Rs. 1250
+Selling Value: Rs. 1250
+
+City No.: 2
+City: COMPUTER
+Price: Rs. 6500
+Rent Site: Rs. 700
+Cost of House: Rs. 0
+Rent with House: Rs. 0
+Bank Mortgage Value: Rs. 4750
+Selling Value: Rs. 4750
+
+City No.: 3
+City: DEHRADUN
+Price: Rs. 3000
+Rent Site: Rs. 300
+Cost of House: Rs. 4000
+Rent with House: Rs. 1200
+Bank Mortgage Value: Rs. 1500
+Selling Value: Rs. 1500
+
+City No.: 4
+City: AMRITSAR
+Price: Rs. 2900
+Rent Site: Rs. 300
+Cost of House: Rs. 4500
+Rent with House: Rs. 1200
+Bank Mortgage Value: Rs. 1450
+Selling Value: Rs. 1450
+
+City No.: 5
+City: BANGLORE
+Price: Rs. 4500
+Rent Site: Rs. 450
+Cost of House: Rs. 5000
+Rent with House: Rs. 2500
+Bank Mortgage Value: Rs. 2250
+Selling Value: Rs. 2250
+
+City No.: 6
+City: LUCKNOW
+Price: Rs. 3500
+Rent Site: Rs. 1000
+Cost of House: Rs. 5000
+Rent with House: Rs. 4000
+Bank Mortgage Value: Rs. 1750
+Selling Value: Rs. 1750
+
+City No.: 7
+City: RESTHOUSE
+Price: Rs. 200
+Rent Site: Rs. 0
+Cost of House: Rs. 0
+Rent with House: Rs. 0
+Bank Mortgage Value: Rs. 0
+Selling Value: Rs. 0
+
+City No.: 8
+City: MUMBAI
+Price: Rs. 8000
+Rent Site: Rs. 1000
+Cost of House: Rs. 7000
+Rent with House: Rs. 4000
+Bank Mortgage Value: Rs. 4000
+Selling Value: Rs. 4000
+
+City No.: 9
+City: AHMEDABAD
+Price: Rs. 4000
+Rent Site: Rs. 500
+Cost of House: Rs. 4500
+Rent with House: Rs. 3500
+Bank Mortgage Value: Rs. 2000
+Selling Value: Rs. 2000
+
+City No.: 10
+City: COCHIN
+Price: Rs. 2500
+Rent Site: Rs. 300
+Cost of House: Rs. 1000
+Rent with House: Rs. 1000
+Bank Mortgage Value: Rs. 1250
+Selling Value: Rs. 1250
+
+City No.: 11
+City: SRINAGAR
+Price: Rs. 3800
+Rent Site: Rs. 400
+Cost of House: Rs. 4000
+Rent with House: Rs. 2000
+Bank Mortgage Value: Rs. 1900
+Selling Value: Rs. 1900
+
+City No.: 12
+City: JAIL
+Price: Rs. 500
+Rent Site: Rs. 0
+Cost of House: Rs. 0
+Rent with House: Rs. 0
+Bank Mortgage Value: Rs. 0
+Selling Value: Rs. 0
+
+City No.: 13
+City: DELHI
+Price: Rs. 6000
+Rent Site: Rs. 750
+Cost of House: Rs. 5000
+Rent with House: Rs. 3000
+Bank Mortgage Value: Rs. 3000
+Selling Value: Rs. 3000
+
+City No.: 14
+City: LUDHIANA
+Price: Rs. 5500
+Rent Site: Rs. 500
+Cost of House: Rs. 6500
+Rent with House: Rs. 3500
+Bank Mortgage Value: Rs. 2750
+Selling Value: Rs. 2750
+
+City No.: 15
+City: SHIMLA
+Price: Rs. 3300
+Rent Site: Rs. 300
+Cost of House: Rs. 4500
+Rent with House: Rs. 1400
+Bank Mortgage Value: Rs. 1650
+Selling Value: Rs. 1650
+
+City No.: 16
+City: DARJEELING
+Price: Rs. 2500
+Rent Site: Rs. 200
+Cost of House: Rs. 3000
+Rent with House: Rs. 1200
+Bank Mortgage Value: Rs. 1250
+Selling Value: Rs. 1250
+
+City No.: 17
+City: AIRWAYS
+Price: Rs. 9500
+Rent Site: Rs. 1000
+Cost of House: Rs. 0
+Rent with House: Rs. 0
+Bank Mortgage Value: Rs. 4750
+Selling Value: Rs. 4750
+
+City No.: 18
+City: POSTOFFICE
+Price: Rs. 2500
+Rent Site: Rs. 500
+Cost of House: Rs. 0
+Rent with House: Rs. 0
+Bank Mortgage Value: Rs. 1250
+Selling Value: Rs. 1250
+
+City No.: 19
+City: CLUB
+Price: Rs. 200
+Rent Site: Rs. 0
+Cost of House: Rs. 0
+Rent with House: Rs. 0
+Bank Mortgage Value: Rs. 0
+Selling Value: Rs. 0
+
+City No.: 20
+City: CHENNAI
+Price: Rs. 7000
+Rent Site: Rs. 900
+Cost of House: Rs. 6500
+Rent with House: Rs. 3500
+Bank Mortgage Value: Rs. 3500
+Selling Value: Rs. 3500
+
+City No.: 21
+City: JAIPUR
+Price: Rs. 4000
+Rent Site: Rs. 400
+Cost of House: Rs. 4500
+Rent with House: Rs. 1500
+Bank Mortgage Value: Rs. 2000
+Selling Value: Rs. 2000
+
+City No.: 22
+City: AGRA
+Price: Rs. 2500
+Rent Site: Rs. 200
+Cost of House: Rs. 3000
+Rent with House: Rs. 900
+Bank Mortgage Value: Rs. 1250
+Selling Value: Rs. 1250
+
+City No.: 23
+City: KANPUR
+Price: Rs. 3500
+Rent Site: Rs. 300
+Cost of House: Rs. 5000
+Rent with House: Rs. 1200
+Bank Mortgage Value: Rs. 1750
+Selling Value: Rs. 1750
+
